@@ -15,6 +15,7 @@ The manager of a medium-sized company has observed a decrease in team performanc
 - Power BI
 
 # Output
+![absenteeism](https://github.com/OsinachiEzemba/HR_Absenteeism_Case_Study/assets/127313959/77873a23-c7ea-4866-9ba6-810f4cbcc415)
 
 
 
