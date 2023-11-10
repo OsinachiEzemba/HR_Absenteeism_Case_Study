@@ -1,2 +1,9 @@
 # HR_Absenteeism_Case_Study
-Improving performance through absenteeism insights
+NOTE: Due to the sensitive nature of this project, it is not possible to share the code publicly.
+
+# Context
+
+
+
+
+
